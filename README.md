@@ -1,3 +1,2 @@
-Codsoft (Web Development)
-
-Landing Page 
+# CODSOFT
+LANDING PAGE
